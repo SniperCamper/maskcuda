@@ -6,7 +6,7 @@ Este programa utiliza CUDA para realizar busca paralela de chaves privadas Bitco
 
 - NVIDIA GPU com suporte a CUDA
 - CUDA Toolkit instalado
-- Biblioteca secp256k1
+- Biblioteca secp256k1   (  sudo apt install libsecp256k1-dev )
 - Sistema operacional compatível com CUDA
 
 ## Compilação
